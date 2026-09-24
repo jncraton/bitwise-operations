@@ -10,4 +10,4 @@ test: bitwise
 	./bitwise
 
 clean:
-	rm -f bitwise_lab
+	rm -f bitwise
