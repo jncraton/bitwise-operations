@@ -16,12 +16,12 @@ After completing this experience, learners will be able to:
 
 Bitwise operators work on the individual bits of an integer.
 
-- and (`&`) - Results in 1 only if both bits are 1. Useful for masking (checking if a bit is on).
-- or (`|`) - Results in 1 if at least one bit is 1. Useful for setting a bit.
-- xor (`^`) - Results in 1 if bits are different. Useful for toggling a bit.
-- not (`~`) - Inverts all bits.
-- Left Shift (`<<`) - Moves bits to the left, filling with 0s. Effectively multiplies by powers of 2.
-- Right Shift (`>>`) - Moves bits to the right. Effectively divides by powers of 2.
+- `&` - And results in 1 only if both bits are 1
+- `|` - Or results in 1 if at least one bit is 1
+- `^` - Xor results in 1 if bits are different
+- `~` - Not inverts all bits
+- `<<` - Left shift moves bits to the left, filling with 0s
+- `>>` - Right shift moves bits to the right
 
 ## Tasks
 
