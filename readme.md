@@ -1,6 +1,6 @@
 # Bitwise Operations and Data Representation
 
-![Left Logical Shift](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Rotate_left_logically.svg/330px-Rotate_left_logically.svg)
+![Left Logical Shift](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Rotate_left_logically.svg/330px-Rotate_left_logically.svg.png)
 
 This lab explores the fundamental ways computers are and manipulate data at the bit level. You will practice using bitwise operators to perform common tasks like masking, shifting, and manipulating character data.
 
