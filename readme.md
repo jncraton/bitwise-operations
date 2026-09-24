@@ -15,6 +15,8 @@ After completing this experience, learners will be able to:
 
 ## Usage
 
+Handout code is provided in bitwise.c.
+
 Once compiled, you can run your program as:
 
 ```
@@ -57,4 +59,3 @@ Bitwise operators work on the individual bits of an integer.
 - [Bitwise operation](https://en.wikipedia.org/wiki/Bitwise_operation)
 
 ![ASCII Code Chart](https://upload.wikimedia.org/wikipedia/commons/4/4f/ASCII_Code_Chart.svg)
-
