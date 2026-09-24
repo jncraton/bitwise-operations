@@ -41,7 +41,7 @@ The code includes a number of embedded tests that can be run by executing:
 make test
 ```
 
-Output includes a number of tests to ensure the program works correctly followed by the results of the character transformation tasks.
+When your solution is working correctly, you should see all tests complete followed by a message that tests finished successfully.
 
 ## Resources
 
