@@ -14,7 +14,7 @@ After completing this experience, learners will be able to:
 
 ## Bitwise Operators
 
-Bitwise operators work on the individual bits of an integer.
+Bitwise operators work on the individual bits of a value.
 
 - `&` - And results in 1 only if both bits are 1
 - `|` - Or results in 1 if at least one bit is 1
